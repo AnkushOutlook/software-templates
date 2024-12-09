@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: ${{values.name | dump}}
   description: ${{values.description | dump}}
+  links:
+    - url: https://www.atlassian.com/software/confluence
+      title: Confluence
+      icon: confluence
   annotations:
     github.com/project-slug: ${{values.destination.owner + "/" + values.destination.repo}}
     backstage.io/techdocs-ref: dir:.
