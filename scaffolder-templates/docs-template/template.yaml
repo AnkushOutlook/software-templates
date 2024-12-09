@@ -10,7 +10,7 @@ metadata:
     - mkdocs
     - documentations
 spec:
-  owner: backstage/techdocs-core
+  owner: default/ankush
   type: documentation
 
   parameters:
