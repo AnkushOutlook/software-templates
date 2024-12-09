@@ -4,6 +4,10 @@ metadata:
   name: docs-template
   title: Documentation Template
   description: Create a documentation
+  links:
+    - url: https://www.atlassian.com/software/confluence
+      title: Confluence
+      icon: confluence
   tags:
     - recommended
     - techdocs
