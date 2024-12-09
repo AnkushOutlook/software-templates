@@ -10,7 +10,7 @@ metadata:
     - mkdocs
     - documentations
 spec:
-  owner: default/ankush
+  owner: ankushch0001
   type: documentation
 
   parameters:
