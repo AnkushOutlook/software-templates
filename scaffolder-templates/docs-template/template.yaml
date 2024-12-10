@@ -5,9 +5,9 @@ metadata:
   title: Documentation Template
   description: Create a documentation
   links:
-    - url: https://www.atlassian.com/software/confluence
-      title: Confluence
-      icon: confluence
+    - url: https://github.com/AnkushOutlook/software-templates/edit/main/scaffolder-templates/docs-template/template.yaml
+      title: Github
+      icon: Github
   tags:
     - recommended
     - techdocs
