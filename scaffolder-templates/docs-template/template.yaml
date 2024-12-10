@@ -14,7 +14,7 @@ metadata:
     - mkdocs
     - documentations
 spec:
-  owner: ankushch0001
+  owner: team-a/ankushch0001
   type: documentation
 
   parameters:
